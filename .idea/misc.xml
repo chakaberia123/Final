@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication3/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication3/app/src/main/res/drawable/ic_baseline_looks_3_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication3/app/src/main/res/drawable/ic_baseline_looks_one_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication3/app/src/main/res/drawable/ic_baseline_looks_two_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication3/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_change_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_password_reset.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_register.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/fragment1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/fragment2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/fragment3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/fragment_Home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/fragment_home.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/fragment_profile.xml" value="0.2318840579710145" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/item_todo.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyApplication3/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_baseline_looks_3_24.xml" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
